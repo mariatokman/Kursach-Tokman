@@ -45,6 +45,7 @@
   display: flex;
   flex-direction: column;
   gap: 22px;
+  margin-bottom: 110px;
 }
 
 label {
